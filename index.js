@@ -11,3 +11,9 @@ function isabove18() {
         console.log('You are below 18')
     }
 }
+function calculateAge() {
+    const currentYear = new Date().getFullYear()
+    const birthYear = parseInt(dob.split('/')[2])
+    const age = currentYear - birthYear
+    console.log(`You are ${age} years old`)
+}
