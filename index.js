@@ -11,3 +11,19 @@ function calculateAge() {
     const age = currentYear - birthYear
     console.log(`You are ${age} years old`)
 }
+
+function placeOfBirth() {
+    console.log('You were born in New York')
+    console.log('You were born in Los Angeles')
+    console.log('You were born in Chicago')
+    console.log('You were born in Houston')
+    console.log('You were born in Phoenix')
+}
+function hobbies() {
+    console.log('Your hobbies include: ')
+    console.log('Reading')
+    console.log('Traveling')
+    console.log('Cooking')
+    console.log('Sports')
+    console.log('Music')
+}
