@@ -27,11 +27,3 @@ function hobbies() {
     console.log('Sports')
     console.log('Music')
 }
-function favoriteColor() {  
-    console.log('Your favorite color is: ')
-    console.log('Blue')
-    console.log('Green')
-    console.log('Red')
-    console.log('Yellow')
-    console.log('Purple')
-}
