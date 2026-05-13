@@ -14,4 +14,8 @@ function calculateAge() {
 
 function placeOfBirth() {
     console.log('You were born in New York')
+    console.log('You were born in Los Angeles')
+    console.log('You were born in Chicago')
+    console.log('You were born in Houston')
+    console.log('You were born in Phoenix')
 }
