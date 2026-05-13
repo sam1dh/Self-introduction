@@ -27,3 +27,11 @@ function hobbies() {
     console.log('Sports')
     console.log('Music')
 }
+
+function newfeature() { 
+    console.log('This is a new feature added to the codebase')
+    console.log('It demonstrates how to add new functionality to an existing codebase')
+    console.log('This feature can be used to enhance the user experience')
+    console.log('It can also be used to improve the performance of the application')
+    console.log('This feature is designed to be easy to use and integrate with the existing codebase')
+}
