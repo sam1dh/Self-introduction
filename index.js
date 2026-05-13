@@ -19,3 +19,11 @@ function placeOfBirth() {
     console.log('You were born in Houston')
     console.log('You were born in Phoenix')
 }
+function hobbies() {
+    console.log('Your hobbies include: ')
+    console.log('Reading')
+    console.log('Traveling')
+    console.log('Cooking')
+    console.log('Sports')
+    console.log('Music')
+}
