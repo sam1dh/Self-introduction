@@ -11,3 +11,7 @@ function calculateAge() {
     const age = currentYear - birthYear
     console.log(`You are ${age} years old`)
 }
+
+function placeOfBirth() {
+    console.log('You were born in New York')
+}
